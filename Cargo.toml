@@ -1,0 +1,12 @@
+[package]
+name = "frosty"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+curve25519-dalek = "4.0"
+rand = "0.8"
+rand_core = "0.6"
+sha2 = "0.10"
+thiserror = "2.0.3"
+itertools = "0.13.0"
